@@ -5,6 +5,6 @@ gate:
   oauth:
     prefix: /jwt
   jwt:
-    secret: Xe*g@1jda
+    secret: sssssa
     expiration: 7200
     header: access-token
